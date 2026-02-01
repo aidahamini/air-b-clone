@@ -32,7 +32,7 @@ const Navbar: React.FC<NavbarProps> = ({
             md:gap-0
           "
         >
-          <Logo />
+          <Logo /> Created by Aida Hamini
           <Search />
           <UserMenu currentUser={currentUser} />
         </div>
